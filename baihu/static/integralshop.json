@@ -1,0 +1,47 @@
+{
+	"dataList":[
+		{
+			"pic":"./src/assets/dress.jpg",
+			"title":"爱玛兰迪2017最新款  ",
+			"integral":2000,
+			"color":"淡粉色",
+			"type":"服装箱包",
+			"introduce":"使得富贵儿还特意为团体和一台华为而言放盐调味后体温高一头环卫工人特无辜软腭可退回"
+		},
+		{
+			"pic":"./src/assets/doll.jpg",
+			"title":"爱玛兰迪2017最新款  ",
+			"integral":400,
+			"type":"玩偶饰品",
+			"introduce":"使得富贵儿还特意为团体和一台华为而言放盐调味后体温高一头环卫工人特无辜软腭可退回"
+		},
+		{
+			"pic":"./src/assets/camera.jpg",
+			"title":"爱玛兰迪2017最新款  ",
+			"integral":5000,
+			"type":"数码家具",
+			"introduce":"使得富贵儿还特意为团体和一台华为而言放盐调味后体温高一头环卫工人特无辜软腭可退回"
+		},
+		{
+			"pic":"./src/assets/mouse.jpg",
+			"title":"爱玛兰迪2017最新款  ",
+			"integral":800,
+			"type":"办公配件",
+			"introduce":"使得富贵儿还特意为团体和一台华为而言放盐调味后体温高一头环卫工人特无辜软腭可退回"
+		},
+		{
+			"pic":"./src/assets/makeup.jpg",
+			"title":"爱玛兰迪2017最新款  ",
+			"integral":1800,
+			"type":"化妆洗护",
+			"introduce":"使得富贵儿还特意为团体和一台华为而言放盐调味后体温高一头环卫工人特无辜软腭可退回"
+		},
+		{
+			"pic":"./src/assets/bag.jpg",
+			"title":"爱玛兰迪2017最新款  ",
+			"integral":2500,
+			"type":"服装箱包",
+			"introduce":"使得富贵儿还特意为团体和一台华为而言放盐调味后体温高一头环卫工人特无辜软腭可退回"
+		}
+	]
+}

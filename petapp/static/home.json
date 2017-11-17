@@ -1,0 +1,18 @@
+{
+	"dataList":[
+		{
+			"id":"001",
+			"img1":"static/pethome/dog1.jpg",
+			"img2":"static/pethome/dog2.jpg",
+			"img3":"static/pethome/dog3.jpg",
+			"title":"我的爱宠们",
+			"author":"无限潜能",
+			"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507866259165&di=297560d04b37b8d3ada64869a80fc4a6&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2015-02-01%2F195010913.jpg",
+			"time":"09-13 8:30",
+			"type":"人像",
+			"comment":1437,
+			"favorite":14,
+			"reward":37
+		}
+	]
+}

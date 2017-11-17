@@ -1,0 +1,73 @@
+{
+	"data":
+		{
+			"id":"001",
+			"img":"../src/assets/brands/1.jpg",
+			"title":"波奇网宠物粮法国皇家PD30贵宾小型犬成犬粮3kg 泰迪狗粮全国包邮",
+	        "price":411,
+	        "address":"合肥",
+	        "type":"狗粮",
+	        "comment":2641,
+	        "sale":34723,
+	        "shopname":"皇家",
+	        "all_goods":"110",
+	        "Promotional_merchandise":"102",
+	        "attion_number":"964",
+	        "liang":1,
+	        "money":1,
+	        "img1":"../src/assets/brands/1.jpg",
+	        "img2":"../src/assets/brands/2007aa97ba2eed0f29cd0ed60715cfd0.jpg",
+	        "img3":"../src/assets/brands/500602463.jpg",
+	        "img4":"../src/assets/brands/dogfood2.jpg",
+	        "commentList":[
+				{
+					"author":"李小四",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862816927&di=2b6d3563e56e8ce39b773bf469217bc2&imgtype=0&src=http%3A%2F%2Ffile03.16sucai.com%2F2016%2F01%2F2016djnbckoaopx.jpg",
+					"content":"赞赞赞赞，有底蕴",
+					"time":"09-28 11:54"
+				},
+				{
+					"author":"马大哈",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862822938&di=92b1aab2bce98f628311accaa5f26f69&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2014-10-02%2F035754171.jpg",
+					"content":"大赞，真心不错",
+					"time":"09-30 21:32"
+				},
+				{
+					"author":"葬爱家族",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+					"content":"我滴爱，赤裸裸",
+					"time":"10-01 23:10"
+				},
+				{
+					"author":"均金兰",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862624929&di=67141787197a1b1fa619ff5317cfefe6&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2014-09-13%2F105859370.jpg",
+					"content":"第一次买，很满意",
+					"time":"10-03 19:34"
+				},
+				{
+					"author":"suyeyu",
+					"avatar":"http://pic.qiantucdn.com/58pic/17/63/80/63n58PICWgP_1024.jpg!/fw/780/watermark/url/L3dhdGVybWFyay12MS4zLnBuZw==/align/center",
+					"content":"物流快，狗狗很喜欢",
+					"time":"10-07 22:39"
+				},
+				{
+					"author":"狄波拉",
+					"avatar":"http://k2.jsqq.net/uploads/allimg/1706/7_170629152344_5.jpg",
+					"content":"我家狗蛋就爱吃这个",
+					"time":"10-9 09:25"
+				},
+				{
+					"author":"一棵大树",
+					"avatar":"http://tx.haiqq.com/uploads/allimg/150325/12244UJ2-2.jpg",
+					"content":"很好，狗狗爱吃",
+					"time":"10-17 17:36"
+				},
+				{
+					"author":"冰淇淋的诱惑",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508245100511&di=37b4cb68d53cce268a31aaf8ec62aed4&imgtype=0&src=http%3A%2F%2Fvpic.video.qq.com%2F4580101%2Fu0333dfshlv_ori_3.jpg",
+					"content":"好",
+					"time":"10-28 21:32"
+				}
+			]	
+		}
+}

@@ -1,0 +1,50 @@
+{
+	"shopList":[
+		{
+			"all":[
+				{
+					"nopay":[
+						{
+							"shopname":"皇家狗粮旗舰店",
+							"type":"待付款",
+							"img":"../src/assets/brands/4.jpg",
+							"title":"皇家狗粮 贵宾成犬狗粮贵宾泰迪狗粮犬主粮PD30/0.5kg*4 28省包邮",
+							"price":163,
+							"number":2
+						}
+					],
+					"noshipping":[
+						{
+							"shopname":"耐威克犬狗粮专卖店",
+							"type":"待发货",
+							"img":"../src/assets/brands/3.jpg",
+							"title":"耐威克成犬狗粮10kg20斤大型中小型犬拉布拉多金毛泰迪贵宾通用型",
+							"price":341,
+							"number":1
+						}
+					],
+					"noreceive":[
+						{
+							"shopname":"波奇网旗舰店",
+							"type":"待收货",
+							"img":"../src/assets/brands/3.jpg",
+							"title":"波奇网宠物粮法国皇家PD30贵宾小型犬成犬粮3kg 泰迪狗粮全国包邮",
+							"price":411,
+							"number":3
+						}
+					],
+					"noappraise":[
+						{
+							"shopname":"波奇网旗舰店",
+							"type":"待评价",
+							"img":"../src/assets/brands/flx.jpg",
+							"title":"德国Flexi福莱希狗链狗绳/宠物伸缩绳狗狗牵引绳大型犬外星人带状",
+							"price":195,
+							"number":1
+						}
+					]
+				}
+			]
+		}
+	]
+}
